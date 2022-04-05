@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working remotely from Piauí, Brazil.
+#### I'm a backend developer from Piauí, Brazil.
 
 <!---
 ##### NOW
@@ -20,5 +20,4 @@
 -->
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **apis**, **databases**, **python**, **development**, **express**
-- 📫 Reach me: [twitter.com/danieldsfphb](https://twitter.com/danieldsfphb)
 - ⚡️ Fun fact: I really enjoy watching matches from Spanish La Liga
