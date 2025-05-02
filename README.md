@@ -12,7 +12,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working @ **Bitewell**
+- 🏢 I'm currently working @ **FoodHealth.co**
 - ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`,`.tsx`,`.vue`
 <!---
 - 🌍 I'm mostly active within the **Laravel Community**
