@@ -12,12 +12,12 @@
 
 ##### BIO
 
-- 🏢 I'm currently working @ **FoodHealth.co**
-- ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`,`.tsx`,`.vue`
+- 🏢 I'm currently working as self-employed
+- ⚙️ I use daily: `.py`, `.ts`, `.php`
 <!---
 - 🌍 I'm mostly active within the **Laravel Community**
 - 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
 -->
 - 🌱 Learning all about **Machine learning**
-- 💬 Ping me about **apis**, **databases**, **python**, **web development**, **express**, **fastapi**
+- 💬 Ping me about **apis**, **databases**, **python**, **web development**, **express**, **fastapi**, **nest**, **laravel**, **django**
 - ⚡️ Fun fact: I really enjoy watching soccer and learning about religions
